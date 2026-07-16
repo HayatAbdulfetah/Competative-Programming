@@ -10,3 +10,5 @@ for i in range(c):
 	pre = a
 	
 print(count)
+
+# problem link --> https://codeforces.com/problemset/problem/344/A
