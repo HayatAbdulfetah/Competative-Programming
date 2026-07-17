@@ -10,3 +10,5 @@ elif A < D:
     print("Danik")
 else:
     print("Friendship")
+    
+# problem link --> https://codeforces.com/problemset/problem/734/A
