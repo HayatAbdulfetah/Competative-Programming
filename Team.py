@@ -9,3 +9,5 @@ for _ in range(n):
         sure += 1
         
 print(sure)
+
+# problrm link --> https://codeforces.com/problemset/problem/231/A
