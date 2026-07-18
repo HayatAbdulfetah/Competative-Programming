@@ -7,3 +7,6 @@ for i in range(n):
     ans[p[i] - 1] = i + 1
 
 print(*ans)
+
+
+# problem link --> https://codeforces.com/problemset/problem/136/A
