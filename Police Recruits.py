@@ -13,3 +13,5 @@ for n in integers:
         police += n
         
 print(crime)
+
+# problem link --> https://codeforces.com/problemset/problem/427/A
