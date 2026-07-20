@@ -18,3 +18,5 @@ for i in range(n):
         D += picked
 
 print(S, D)
+
+# problem link --> https://codeforces.com/problemset/problem/381/A
