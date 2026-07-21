@@ -21,4 +21,4 @@ int main() {
     cout<<count;
 }
 
-/* problem link --> https://codeforces.com/problemset/problem/268/A*/
+// problem link --> https://codeforces.com/problemset/problem/268/A
