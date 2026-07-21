@@ -16,3 +16,5 @@ for i in range(n):
             count += 1
 
 print(count)
+
+# problem link --> https://codeforces.com/problemset/problem/268/A
