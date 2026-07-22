@@ -19,3 +19,5 @@ int main() {
     printf("Danik");
     return 0;
 }
+
+// problem link --> https://codeforces.com/problemset/problem/734/A
