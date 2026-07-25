@@ -6,3 +6,5 @@ class Solution:
             return 9
         else:
             return num % 9
+
+# LeetCode problem link --> https://leetcode.com/problems/add-digits/
