@@ -8,3 +8,5 @@ while a <= b:
     years += 1
     
 print(years)
+
+# problem link --> https://codeforces.com/problemset/problem/791/A
