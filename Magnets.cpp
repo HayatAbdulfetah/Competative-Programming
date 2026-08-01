@@ -16,3 +16,6 @@ int main() {
     return 0;
 
 }
+
+
+// problem link --> https://codeforces.com/problemset/problem/344/A
