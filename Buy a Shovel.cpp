@@ -11,3 +11,5 @@ int main() {
         ++sum;
     }
 }
+
+// problem link --> https://codeforces.com/problemset/problem/732/A
