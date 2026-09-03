@@ -3,4 +3,4 @@ set_list=set(lst)
 n=len(set_list)
 print(4-n)
 
-# Codeforces problem link --> 
+# Codeforces problem link --> https://codeforces.com/problemset/problem/228/A
