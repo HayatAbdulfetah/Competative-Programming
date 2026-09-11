@@ -1,11 +1,9 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        f = Counter(digits)
+        numbers = set()
 
-        res = 0
-        for n in range(100, 1000, 2):
-            i, r = divmod(n, 100)
-            j, k = divmod(r, 10)
-            res += f[i] > 0 and f[j] > (i == j) and f[k] > (i == k) + (j == k)
+        for a, b, c in permutations(digits, 3):
+            if a != 0 and c % 2 == 0:
+                numbers.add((a, b, c))
 
-        return res
+        return len(numbers)
