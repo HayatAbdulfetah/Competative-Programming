@@ -4,3 +4,5 @@ for i in range(n):
 	y = [int(i) for i in x]
   
 	print(y[0]+y[1])
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1999/A
