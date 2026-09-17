@@ -16,3 +16,5 @@ for _ in range(t):
                 count += 1
               
     print(count)
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/2106/A
