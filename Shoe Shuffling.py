@@ -30,3 +30,5 @@ for _ in range(t):
         print(*p)
     else:
         print(-1)
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1691/B
