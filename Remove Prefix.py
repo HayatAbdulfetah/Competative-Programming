@@ -14,3 +14,6 @@ for _ in range(t):
         seen.add(a[i])
 
     print(ans)
+
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1714/B
