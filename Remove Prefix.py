@@ -15,5 +15,4 @@ for _ in range(t):
 
     print(ans)
 
-
 # Codeforces problem link --> https://codeforces.com/problemset/problem/1714/B
