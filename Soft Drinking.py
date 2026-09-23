@@ -7,3 +7,5 @@ salt = p // np
 toasts = min(drink, lime, salt)
 
 print(toasts // n)
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/151/A
