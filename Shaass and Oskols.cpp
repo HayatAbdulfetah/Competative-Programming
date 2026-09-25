@@ -19,3 +19,5 @@ int main() {
         cout<<arr[i]<<endl;
     }
 }
+
+// Codeforces problem link --> https://codeforces.com/problemset/problem/294/A
