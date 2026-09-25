@@ -1,4 +1,3 @@
-another simpler solution 
 n = int(input())
 
 users = {}
