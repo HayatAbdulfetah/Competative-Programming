@@ -7,4 +7,4 @@ for _ in range(t):
     else:
         print("NO")
 
-# problem link --> https://codeforces.com/problemset/problem/1703/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1703/A
