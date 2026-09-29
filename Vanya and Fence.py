@@ -13,3 +13,5 @@ for f in friends:
     width += 1
     
 print(width)
+
+# Codeforces problem link --> https://codeforces.com/problemset/problem/677/A
