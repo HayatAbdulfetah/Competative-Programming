@@ -9,4 +9,5 @@ for x in lucky:
 else:
     print("NO")
 
+
 # problem link --> https://codeforces.com/problemset/problem/122/A
