@@ -1,6 +1,7 @@
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
+
 int main() {
     int a,count=0;
     cin>>a;
