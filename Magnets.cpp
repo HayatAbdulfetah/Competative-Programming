@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 int main() {
     char last='\0';
     int ans=1,n;
