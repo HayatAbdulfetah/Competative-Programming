@@ -7,3 +7,5 @@ for i in range(1, len(s)):
   stones += 1
   
 print(stones)
+
+# Codeforces problem link -->
