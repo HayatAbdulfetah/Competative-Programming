@@ -11,4 +11,4 @@ for i in range(c):
 	
 print(count)
 
-# problem link --> https://codeforces.com/problemset/problem/344/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/344/A
