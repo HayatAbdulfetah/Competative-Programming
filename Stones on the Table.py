@@ -8,4 +8,4 @@ for i in range(1, len(s)):
   
 print(stones)
 
-# Codeforces problem link -->
+# Codeforces problem link --> https://codeforces.com/problemset/problem/266/A
