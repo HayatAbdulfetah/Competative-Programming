@@ -1,3 +1,4 @@
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -19,4 +20,4 @@ int main() {
 }
 
 
-// problem link --> https://codeforces.com/problemset/problem/344/A
+// Codeforces problem link --> https://codeforces.com/problemset/problem/344/A
