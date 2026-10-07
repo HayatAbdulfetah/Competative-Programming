@@ -22,4 +22,4 @@ int main() {
     return 0;
 }
 
-// Codeforces problem link 
+// Codeforces problem link --> https://codeforces.com/problemset/problem/731/A
