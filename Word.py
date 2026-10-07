@@ -11,3 +11,5 @@ if lower >= upper:
     print(s.lower())
 else:
     print(s.upper())
+
+# Codeforces problem link --> 
