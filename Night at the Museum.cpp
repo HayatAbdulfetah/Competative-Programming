@@ -8,6 +8,7 @@ int main() {
     int b,c,d,e,f,g;
     f=0;
     b=a.size();
+    
     for(c=0; c<b; c++) {
         e=a[c]-z;
         if(e<0) {
