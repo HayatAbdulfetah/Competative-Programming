@@ -7,4 +7,4 @@ for i in range(n):
     else:
         print(word)
 
-# problem link --> https://codeforces.com/problemset/problem/71/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/71/A
