@@ -4,4 +4,4 @@ if w % 2 == 0 and w > 3:
 else:
     print("NO")
 
-# problem link --> https://codeforces.com/problemset/problem/4/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/4/A
