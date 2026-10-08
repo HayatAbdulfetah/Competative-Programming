@@ -10,4 +10,4 @@ for i in range(len(a)):
 		letter += a[i]
 print(letter)
 
-# problem link --> https://codeforces.com/problemset/problem/118/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/118/A
