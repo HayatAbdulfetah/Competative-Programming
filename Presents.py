@@ -9,4 +9,4 @@ for i in range(n):
 print(*ans)
 
 
-# problem link --> https://codeforces.com/problemset/problem/136/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/136/A
