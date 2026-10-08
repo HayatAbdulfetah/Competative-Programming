@@ -7,4 +7,4 @@ b = input().lower()
 
 print(eq(a,b))
 
-# Codeforces problem link --> 
+# Codeforces problem link --> https://codeforces.com/problemset/problem/112/A
