@@ -14,4 +14,4 @@ for n in integers:
         
 print(crime)
 
-# problem link --> https://codeforces.com/problemset/problem/427/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/427/A
