@@ -6,3 +6,5 @@ a = input().lower()
 b = input().lower()
 
 print(eq(a,b))
+
+# Codeforces problem link --> 
