@@ -16,4 +16,4 @@ for coin in coins:
 
 print(count)
 
-# problem link --> https://codeforces.com/problemset/problem/160/A
+# codeforces problem link --> https://codeforces.com/problemset/problem/160/A
