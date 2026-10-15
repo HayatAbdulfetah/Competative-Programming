@@ -2,6 +2,10 @@ t = int(input())
 
 for _ in range(t):
     a, b, c = map(int, input().split())
-    print("First" if a + c > b else "Second")
+
+    if a > b or (a == b and c % 2 == 1):
+        print("First")
+    else:
+        print("Second")
 
 # Codeforces problem link --> https://codeforces.com/problemset/problem/1858/A
