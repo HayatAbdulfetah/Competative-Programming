@@ -1,8 +1,8 @@
 amount = int(input())
 
 bill_count = 0
-
-for bill in [100, 20, 10, 5, 1]:
+bills = [1, 5, 10, 20, 100]
+for bill in bills:
     bill_count += amount // bill
     amount %= bill
 
