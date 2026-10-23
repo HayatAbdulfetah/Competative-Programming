@@ -11,4 +11,4 @@ elif A < D:
 else:
     print("Friendship")
     
-# problem link --> https://codeforces.com/problemset/problem/734/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/734/A
