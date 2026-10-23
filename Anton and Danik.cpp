@@ -20,4 +20,4 @@ int main() {
     return 0;
 }
 
-// problem link --> https://codeforces.com/problemset/problem/734/A
+// Codeforces problem link --> https://codeforces.com/problemset/problem/734/A
