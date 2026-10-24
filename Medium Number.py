@@ -5,4 +5,4 @@ for _ in range(t):
   
   print(integers[1])
   
-# Codeforces problem link 
+# Codeforces problem link --> https://codeforces.com/problemset/problem/1760/A
