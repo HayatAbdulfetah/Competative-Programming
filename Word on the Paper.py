@@ -1,13 +1,28 @@
 t = int(input())
+
 for _ in range(t):
-  word = ""
-  for i in range(8):
-    grid = input()
+    word = ""
+
+    for i in range(8):
+        row = input()
+
+        for char in row:
+            if char != ".":
+                word += char
+
+    print(word)
+
+# anotehr soluthion
+# t = int(input())
+# for _ in range(t):
+#   word = ""
+#   for i in range(8):
+#     grid = input()
     
-    for j in range(8):
-      if grid[j].isalpha():
-        word += grid[j]
+#     for j in range(8):
+#       if grid[j].isalpha():
+#         word += grid[j]
         
-  print(word)
+#   print(word)
   
 # Codeforces problem link --> https://codeforces.com/problemset/problem/1850/C
