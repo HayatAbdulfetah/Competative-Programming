@@ -1,4 +1,4 @@
-n = int(input())
+pn = int(input())
 x = 0
 for i in range(n):
 	st = input()
@@ -8,4 +8,4 @@ for i in range(n):
 		x -= 1
 print(x)
 
-# problemlink --> https://codeforces.com/problemset/problem/282/A
+# Codeforces problemlink --> https://codeforces.com/problemset/problem/282/A
