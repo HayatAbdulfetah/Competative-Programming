@@ -8,4 +8,4 @@ for i in range(n):
 		x -= 1
 print(x)
 
-# Codeforces problemlink --> https://codeforces.com/problemset/problem/282/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/282/A
