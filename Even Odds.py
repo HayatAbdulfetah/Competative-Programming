@@ -7,4 +7,4 @@ if k <= odd:
 else:
     print(2 * (k - odd))
 
-# problem link --> https://codeforces.com/problemset/problem/318/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/318/A
