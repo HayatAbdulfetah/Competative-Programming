@@ -10,4 +10,4 @@ if len(levels) == n:
 else:
     print("Oh, my keyboard!")
 
-# problem link --> https://codeforces.com/problemset/problem/469/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/469/A
