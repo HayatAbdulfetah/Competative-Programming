@@ -7,4 +7,4 @@ for i in range(k):
     
 print(n)
 
-# problem link --> https://codeforces.com/problemset/problem/977/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/977/A
