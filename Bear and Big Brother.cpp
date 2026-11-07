@@ -15,4 +15,4 @@ int main() {
 
 }
 
-// problem link --> https://codeforces.com/problemset/problem/791/A
+// Codeforces problem link --> https://codeforces.com/problemset/problem/791/A
