@@ -14,4 +14,4 @@ for i in range(1, len(s)):
 else:
     print("NO")
 
-# problem link --> https://codeforces.com/problemset/problem/96/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/96/A
