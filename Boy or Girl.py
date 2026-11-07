@@ -6,4 +6,4 @@ if len(a) %2 == 0:
 else:
 	print("IGNORE HIM!")
 
-# problem link --> https://codeforces.com/problemset/problem/236/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/236/A
