@@ -9,4 +9,4 @@ while a <= b:
     
 print(years)
 
-# problem link --> https://codeforces.com/problemset/problem/791/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/791/A
