@@ -12,4 +12,4 @@ int main() {
     }
 }
 
-// problem link --> https://codeforces.com/problemset/problem/732/A
+// Codeforces problem link --> https://codeforces.com/problemset/problem/732/A
