@@ -5,4 +5,4 @@ for n in range(1, 11):
         print(n)
         break
 
-# problem link --> https://codeforces.com/problemset/problem/732/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/732/A
