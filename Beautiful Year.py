@@ -7,4 +7,4 @@ while True:
         print(year)
         break
 
-# problem link --> https://codeforces.com/problemset/problem/271/A
+# Codeforces problem link --> https://codeforces.com/problemset/problem/271/A
