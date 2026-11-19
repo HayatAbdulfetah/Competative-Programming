@@ -1,33 +1,25 @@
-
 t = int(input())
 
 for _ in range(t):
     n, k, x = map(int, input().split())
 
     if x != 1:
-        print("YES")
-        print(n)
-        print(*([1] * n))
+        ans = [1] * n
 
-    elif k == 1:
-        print("NO")
+    elif k == 1 or (k == 2 and n % 2 != 0):
+        ans = []
 
-    elif k == 2:
-        if n % 2 == 0:
-            print("YES")
-            print(n // 2)
-            print(*([2] * (n // 2)))
-        else:
-            print("NO")
+    elif n % 2 == 0:
+        ans = [2] * (n // 2)
 
     else:
-        if n % 2 == 0:
-            print("YES")
-            print(n // 2)
-            print(*([2] * (n // 2)))
-        else:
-            print("YES")
-            print((n - 3) // 2 + 1)
-            print(3, *([2] * ((n - 3) // 2)))
+        ans = [3] + [2] * ((n - 3) // 2)
+
+    if ans:
+        print("YES")
+        print(len(ans))
+        print(*ans)
+    else:
+        print("NO")
 
 # Codeforces problem link --> https://codeforces.com/problemset/problem/1845/A
